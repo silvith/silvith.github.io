@@ -1,6 +1,6 @@
 Company Homepage
 
-I built this one-page comepany site completely with flexbox. No Javascript, no flexgrid - just flexboxes. I am not a fan - I prefer flex-grid. But this is what the assignment required.
+I built this one-page company site completely with flexbox. No Javascript, no flexgrid - just flexboxes. I am not a fan - I prefer flex-grid. But this is what the assignment required.
 
 This page is also built mobile-first responsive. It's the first time I've built a page this way, and it makes a lot of sense to start with the smallest screen and from there expand to accomodate wider and taller resolutions. 
 
