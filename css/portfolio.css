@@ -8,5 +8,8 @@ nav { flex-direction: row; }
 aside { flex-wrap: wrap; }
 
 img { max-width: 100%; max-height: 450px; }
+
+dd { padding-bottom: 0.6em; }
+
 .fab { font-size: 3em; padding: 0.4em; }
 a .fab { color: black; }
